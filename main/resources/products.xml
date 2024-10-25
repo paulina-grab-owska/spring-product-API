@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Products>
+    <Product id="1">
+        <Name>apple</Name>
+        <Category>fruit</Category>
+        <PartNumberNR>2303-E1A-G-M-W209B-VM</PartNumberNR>
+        <CompanyName>FruitsAll</CompanyName>
+        <Active>true</Active>
+    </Product>
+    <Product id="2">
+        <Name>orange</Name>
+        <Category>fruit</Category>
+        <PartNumberNR>5603-J1A-G-M-W982F-PO</PartNumberNR>
+        <CompanyName>FruitsAll</CompanyName>
+        <Active>false</Active>
+    </Product>
+    <Product id="3">
+        <Name>glass</Name>
+        <Category>dish</Category>
+        <PartNumberNR>9999-E7R-Q-M-K287B-YH</PartNumberNR>
+        <CompanyName>HomeHome</CompanyName>
+        <Active>true</Active>
+    </Product>
+    <Product id="4">
+        <Name>banana</Name>
+        <Category>fruit</Category>
+        <PartNumberNR>1098-D2S-J-N-T453F-LQ</PartNumberNR>
+        <CompanyName>FruitsAll</CompanyName>
+        <Active>true</Active>
+    </Product>
+    <Product id="5">
+        <Name>plate</Name>
+        <Category>dish</Category>
+        <PartNumberNR>3876-K9E-R-A-P762M-WP</PartNumberNR>
+        <CompanyName>HomeHome</CompanyName>
+        <Active>false</Active>
+    </Product>
+    <Product id="6">
+        <Name>pear</Name>
+        <Category>fruit</Category>
+        <PartNumberNR>7890-M1S-L-P-O212D-FG</PartNumberNR>
+        <CompanyName>FruitsAll</CompanyName>
+        <Active>true</Active>
+    </Product>
+    <Product id="7">
+        <Name>cup</Name>
+        <Category>dish</Category>
+        <PartNumberNR>5432-G7H-S-T-Y765E-RW</PartNumberNR>
+        <CompanyName>HomeHome</CompanyName>
+        <Active>true</Active>
+    </Product>
+</Products>
